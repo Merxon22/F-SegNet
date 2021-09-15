@@ -1,0 +1,4 @@
+--2021-08-25 22:35:36--  https://drive.google.com/u/0/uc?export=download
+Resolving drive.google.com (drive.google.com)... 31.13.78.65, 2001::1f0d:4313
+Connecting to drive.google.com (drive.google.com)|31.13.78.65|:443... failed: Connection timed out.
+Connecting to drive.google.com (drive.google.com)|2001::1f0d:4313|:443... failed: Network is unreachable.
