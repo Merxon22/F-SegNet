@@ -67,3 +67,6 @@ where:
 `-w` is **output directory path**, which should be the same as `-o` mentioned in Step 2. F-SegNet will automatically read the `./model_final.pth` in this directory.
 
 `-t` is the **score threshold**, which is set to `0.5` by default
+
+## Acknowledgement
+This project is developed based on [Detectron 2](https://github.com/facebookresearch/detectron2) framework.
